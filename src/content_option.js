@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "AHAD";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Abdul Ahad",
+    description: "I’m Abdul Ahad Full Stack Web and App Devloper, currently working in Pakistan",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Abdul Ahad",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I'm a Web Developer",
+        second: "I develop Mobile Applications",
+        third: "Building Code, Shaping Futures.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I specialize in creating modern, responsive websites and mobile applications with clean code and intuitive user interfaces. ",
 };
 
 const dataabout = {
