@@ -1,4 +1,4 @@
-const logotext = "Developer";
+const logotext = "Ahad";
 const meta = {
     title: "Abdul Ahad",
     description: "I’m Abdul Ahad Full Stack Web and App Devloper, currently working in Pakistan",
