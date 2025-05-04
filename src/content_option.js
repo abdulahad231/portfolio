@@ -1,4 +1,4 @@
-const logotext = "AHAD";
+const logotext = "Developer";
 const meta = {
     title: "Abdul Ahad",
     description: "I’m Abdul Ahad Full Stack Web and App Devloper, currently working in Pakistan",
@@ -15,25 +15,25 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About Me",
+    aboutme: "I'm Abdul Ahad, a dedicated Web and App Developer currently pursuing a Bachelor of Science in Computer Science at SZABIST University, Islamabad. With a strong passion for technology and problem-solving, I specialize in building responsive websites and user-friendly mobile applications that deliver real value. I enjoy turning complex challenges into clean, efficient code and intuitive designs. My approach combines creativity with technical expertise to create seamless digital experiences. I am constantly exploring new tools and frameworks to stay current in the fast-evolving tech landscape.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
-];
+  const worktimeline = [{
+         jobtitle: "Designer of week",
+         where: "YAdfi",
+         date: "2020",
+     },
+     {
+         jobtitle: "Designer of week",
+         where: "Jamalya",
+         date: "2019",
+     },
+     {
+         jobtitle: "Designer of week",
+         where: "ALquds",
+         date: "2019",
+     },
+ ];
 
 const skills = [{
         name: "Python",
@@ -57,19 +57,21 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+const services = [
+    {
+        title: "Web Development",
+        description: "I design and develop responsive, high-performance websites using modern technologies. From static pages to full-stack web applications, I deliver scalable and user-focused digital experiences.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I build cross-platform mobile applications that combine sleek design with powerful functionality. Whether for Android or iOS, my apps are optimized for performance, usability, and seamless interaction.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "UI/UX Design",
+        description: "I create intuitive and visually engaging user interfaces that enhance usability and user satisfaction. My design process focuses on user needs, resulting in clean, effective, and accessible digital experiences.",
     },
 ];
+
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
@@ -135,9 +137,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "ahad.a.m5919@gmail.com",
+    YOUR_FONE: "+92 336 586 5919",
+    description: "Feel free to reach out for web and app development projects, collaborations, or any tech-related queries. I'm always open to discussing new ideas and helping bring your vision to life.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -146,9 +148,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/abdulahad231",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/abdul-ahad-210673252/",
     twitter: "https://twitter.com",
 };
 export {
