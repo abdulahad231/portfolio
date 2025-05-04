@@ -36,25 +36,25 @@ const dataabout = {
  ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "JavaScript",
+        value: 95,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "CSS",
+        value: 92,
     },
-    {
-        name: "Javascript",
-        value: 80,
-    },
+    // {
+    //     name: "Javascript",
+    //     value: 80,
+    // },
     {
         name: "React",
-        value: 60,
+        value: 75,
     },
-    {
-        name: "Jquery",
-        value: 85,
-    },
+    // {
+    //     name: "Jquery",
+    //     value: 85,
+    // },
 ];
 
 const services = [
